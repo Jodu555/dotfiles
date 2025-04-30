@@ -1,0 +1,39 @@
+#Misc Aliases
+alias c='clear'
+
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+
+alias md='mkdir'
+alias t='touch'
+alias c='clear'
+alias p='ping'
+
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+
+#GNU Screen Aliases
+alias sc='screen '
+alias scl='screen -ls'
+alias scr='screen -r'
+alias scx='screen -X -S'
+alias scs='screen -S'
+
+#Git Aliases
+alias gs='git status'
+alias gb='git branch'
+alias gaa='git add --all'
+alias gl='git log'
+alias gplom='git pull origin master'
+alias gcm='git commit -m'
+alias gpom='git push origin master'
+alias gi='git init -b master'
+alias grao='git remote add origin'
+alias grv='git remote -v'
+alias gc='git clone'
+alias gss='git status'
+
+#Other Aliases
+alias cu='cudominercli'
